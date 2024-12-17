@@ -45,15 +45,17 @@
 
 ###
 
-<h5 align="left">🌱 I’m currently learning Django, Golang<br><br>📫 How to reach me byrn.uiy@gmail.com<br><br>⚡ Fun fact I am currently studying at SMKN 02 Karanganyar</h5>
+<h4 align="left">🌱 I’m currently learning Django, Golang<br><br>📫 How to reach me byrn.uiy@gmail.com<br><br>⚡ Fun fact I am currently studying at SMKN 02 Karanganyar</h4>
 
 ###
 <hr>
 <hr>
 
+<h2 align="center">FFfFFF</h2>
 <p align="center">
   <img src="https://github.com/yusrb/Yusrb/blob/main/github-user-contribution.svg" alt="GitHub Contribution" />
 </p>
+
 
 ###
 
