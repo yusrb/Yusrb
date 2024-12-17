@@ -1,8 +1,8 @@
-<h1 align="center">Hello World 👋, I'm Yusar Brian Sadella</h1>
+<h2 align="left">Hi internet, I'm Yusar Brian Sadella</h1>
 
 ###
 
-<h2 align="center">Everything will end, so make it a meaningful ending.</h2>
+<h2 align="center">Everything will be end, so make it a meaningful ending.</h2>
 
 ###
 
