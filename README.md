@@ -45,7 +45,13 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Django, Golang<br><br>📫 How to reach me byrn.uiy@gmail.com<br><br>⚡ Fun fact I am currently studying at SMKN 02 Karanganyar</h4>
+<h4 align="left">
+  <marquee behavior="scroll" direction="left">
+    🌱 I’m currently learning Django, Golang<br><br>
+    📫 How to reach me byrn.uiy@gmail.com<br><br>
+    ⚡ Fun fact I am currently studying at SMKN 02 Karanganyar
+  </marquee>
+</h4>
 
 ###
 <hr>
@@ -68,22 +74,26 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/btyo.skzo/" target="__blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://web.facebook.com/ByrnzVk/" target="__blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/ByrnS7K" target="__blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo" />
+  
+  <a href="https://www.instagram.com/btyo.skzo/" target="__blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo" />
   </a>
   
-  <a href="https://www.linkedin.com/in/yusar-brian-sadella-232901328/" target="__blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  <a href="https://web.facebook.com/ByrnzVk/" target="__blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo" />
   </a>
-  <a href="mailto:byrn.uiy@gmail.com" target="__blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+  
+  <a href="https://x.com/ByrnS7K" target="__blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yusar-brian-sadella-232901328/" target="__blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo" />
+  </a>
+  
+  <a href="mailto:byrn.uiy@gmail.com" target="__blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo" />
   </a>
 </div>
 
