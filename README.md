@@ -47,7 +47,7 @@
 
 <h4 align="left">
   <marquee behavior="scroll" direction="left">
-    🌱 I’m currently learning Django, Golang<br><br>
+    🌱 I’m currently learning Django, Laravel<br><br>
     📫 How to reach me byrn.uiy@gmail.com<br><br>
     ⚡ Fun fact I am currently studying at SMKN 02 Karanganyar
   </marquee>
