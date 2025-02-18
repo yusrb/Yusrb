@@ -45,23 +45,23 @@
 ---
 
 <h3 align="center">Connect with Me</h3>
-<div align="center">
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+<div align="center" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@yourchannel" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/btyo.skzo/" target="_blank">
+  <a href="https://www.instagram.com/btyo.skzo/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="Instagram" />
   </a>
-  <a href="https://web.facebook.com/ByrnzVk/" target="_blank">
+  <a href="https://web.facebook.com/ByrnzVk/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="Facebook" />
   </a>
-  <a href="https://x.com/ByrnS7K" target="_blank">
+  <a href="https://x.com/ByrnS7K" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/yusar-brian-sadella-232901328/" target="_blank">
+  <a href="https://www.linkedin.com/in/yusar-brian-sadella-232901328/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:byrn.uiy@gmail.com" target="_blank">
+  <a href="mailto:byrn.uiy@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="Gmail" />
   </a>
 </div>
