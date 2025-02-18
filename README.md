@@ -4,9 +4,9 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  <img align="right" height="150" src="https://media1.tenor.com/m/fy511Gg4ha4AAAAd/fast-typing-anime.gif" alt="Typing GIF" />
+  <img height="150" src="https://media1.tenor.com/m/fy511Gg4ha4AAAAd/fast-typing-anime.gif" alt="Typing GIF" />
 </div>
 
 ---
