@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yusrb&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img align="right" height="150" src="https://media1.tenor.com/m/fy511Gg4ha4AAAAd/fast-typing-anime.gif" alt="Typing GIF" />
 </div>
 
 ---
@@ -28,8 +28,6 @@
 </div>
 
 ---
-
-<img align="right" height="240" src="https://media1.tenor.com/m/fy511Gg4ha4AAAAd/fast-typing-anime.gif" alt="Typing GIF" />
 
 ### About Me
 
